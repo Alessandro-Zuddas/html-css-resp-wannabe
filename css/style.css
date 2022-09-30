@@ -165,4 +165,8 @@ img {
     .col{
         width: 100%;
     }
+
+    body{
+        font-size: 20px;
+    }
  }
