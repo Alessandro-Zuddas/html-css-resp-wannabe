@@ -130,7 +130,7 @@ img {
 
  @media screen and (max-width: 1160px){
     .container{
-        max-width: 1160px;
+        max-width: 100%;
     }
 
     .row{
@@ -140,7 +140,7 @@ img {
 
  @media screen and (max-width: 768px){
     .container{
-        max-width: 768px;
+        max-width: 100%;
     }
 
     .row{
@@ -154,7 +154,7 @@ img {
 
  @media screen and (max-width: 480px){
     .container{
-        max-width: 479px;
+        max-width: 100%;
     }
 
     .row{
@@ -163,7 +163,7 @@ img {
     }
 
     .col{
-        width: 100%;
+        max-width: 100%;
     }
 
     body{
